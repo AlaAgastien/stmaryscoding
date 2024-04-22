@@ -1,0 +1,1 @@
+print("hostel manegement tool")
